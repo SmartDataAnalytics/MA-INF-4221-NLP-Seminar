@@ -27,17 +27,20 @@ This Seminar is organised as follows:
 - Final Presenation in late January (slots 23rd and 30th January )
 - Submit Report of 7-8 pages
 
-### Slides with Topic List and Schedule
+### Slides to refer
 - [Introductory Slide](https://docs.google.com/presentation/d/1W9QAO-_2_430_gWh0n0o0NOcbh6JuQOnx5o_r5fCPr0/edit?usp=sharing)
+- Refer the Slides for:
+    - Core Topics
+    - Get more Topic from list of conferences
+    - List of Conferences for research paper
+    - Timeline to follow
 
 ### Grading :chart_with_upwards_trend:
 Grades for this Seminar will be assessed as follows:
 - [x] Mid Term Presentation (20%) 
 - [x] Final Persenation (70%) 
 - [x] Report (10%) 
-  
-### More Info :calendar:
-(submission dates, tasks, project descriptions, etc..)
+ 
 
 [Smart Data Analytics (SDA Research)](http://sda.cs.uni-bonn.de/)
 
