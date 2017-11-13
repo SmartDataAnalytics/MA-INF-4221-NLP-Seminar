@@ -27,7 +27,7 @@ This Seminar is organised as follows:
 - Final Presenation in late January (slots 23rd and 30th January )
 - Submit Report of 7-8 pages
 
-#todo : Students please add your details on this [spredsheet](https://docs.google.com/spreadsheets/d/1axbcSNH0B59cOWlHehb0ZkXGxcSJCkU8djLOFcEKyHo/edit#gid=0), access on request.
+#todo : Students please add your details on this [spreadsheet](https://docs.google.com/spreadsheets/d/1axbcSNH0B59cOWlHehb0ZkXGxcSJCkU8djLOFcEKyHo/edit#gid=0), access on request.
 
 ### Slides to refer
 - [Introductory Slide](https://docs.google.com/presentation/d/1W9QAO-_2_430_gWh0n0o0NOcbh6JuQOnx5o_r5fCPr0/edit?usp=sharing)
